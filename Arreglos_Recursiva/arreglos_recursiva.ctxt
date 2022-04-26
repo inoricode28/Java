@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=arreglos_recursiva
+comment1.params=
+comment1.target=arreglos_recursiva()
+comment2.params=
+comment2.target=void\ poblar_arreglo()
+comment3.params=b\ n
+comment3.target=int\ potencia_recursiva(int,\ int)
+comment4.params=
+comment4.target=void\ potencia_arreglo()
+comment5.params=
+comment5.target=void\ imprimir_pares_usando_arreglos()
+comment6.params=
+comment6.target=void\ imprimir_potencia_usando_arreglos()
+numComments=7
