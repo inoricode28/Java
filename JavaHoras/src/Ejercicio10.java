@@ -9,6 +9,8 @@ public class Ejercicio10 {
             case "Jueves": System.out.println("Hoy es Jueves");break;
             case "Viernes": System.out.println("Hoy es Viernes");break;
             case "Sabado": System.out.println("Hoy es Sabado");break;
+            default: System.out.println("Este no es un dia valido");
+
         }
     }
 
